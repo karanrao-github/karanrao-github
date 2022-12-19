@@ -3,12 +3,11 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=karanrao-github&label=Profile%20views&color=0e75b6&style=flat"  alt="Karan" /> </p>
 
 ### 🧐 More About Me:
-- I’m currently Learning **Data Structures & Algorithms**
+- I’m currently Learning **Data Structures & Algorithms** using Java
 
-- Learning more about **Automation**
+- Learning more about **Automation** 
 
 - Looking for work
-
 
 ## 👨🏻‍💻 Connect With Me:
 
