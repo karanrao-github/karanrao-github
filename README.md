@@ -5,9 +5,14 @@
 ### 🧐 More About Me:
 - I’m currently Learning **Data Structures & Algorithms** using Java
 
-- Learning more about **Automation** 
+- Learning more about **POSTMAN and Automation Testing** 
 
-- Looking for work
+- Ready for collaboration 
+
+![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=karanrao-github&show_icons=true&bg_color=0000&hide_border=true&text_color=d0d3d4)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karanrao-github&layout=compact)
+
 
 ## 👨🏻‍💻 Connect With Me:
 
